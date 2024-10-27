@@ -1,7 +1,7 @@
 const DB = {
   "numbers": [
     { "id": 1, "number": "2348165846414@s.whatsapp.net", "type": "whatsapp" },
-    { "id": 2, "number": "2349065518402@s.whatsapp.net", "type": "whatsapp" },
-    { "id": 4, "number": "2348140825959@s.whatsapp.net", "type": "whatsapp" }
+    { "id": 2, "number": "2348140825959@s.whatsapp.net", "type": "whatsapp" },
+    { "id": 3, "number": "2348140825959@s.whatsapp.net", "type": "whatsapp" }
   ]
 };
