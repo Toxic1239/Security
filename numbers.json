@@ -1,7 +1,4 @@
-const DB = {
-  "numbers": [
-    { "id": 1, "number": "2348165846414@s.whatsapp.net", "type": "whatsapp" },
-    { "id": 2, "number": "2348140825959@s.whatsapp.net", "type": "whatsapp" },
-    { "id": 3, "number": "2348140825959@s.whatsapp.net", "type": "whatsapp" }
-  ]
-};
+[
+  "6283827666602@s.whatsapp.net",
+  "6285282848715@s.whatsapp.net"
+]
